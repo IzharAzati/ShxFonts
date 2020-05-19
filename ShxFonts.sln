@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azati.Shx.LoadShxDef", "LoadShxDef\Azati.Shx.LoadShxDef.csproj", "{92B31429-F8AB-45CE-B80E-E37150A896EB}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DatabaseShpShxFonts", "DatabaseShpShxFonts\DatabaseShpShxFonts.sqlproj", "{2F0D44A5-6782-4958-9A92-13846ACF677C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azati.Shx.Data", "Azati.Shx.Data\Azati.Shx.Data.csproj", "{733A998B-2570-4088-9C2F-DA5681DA4185}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92B31429-F8AB-45CE-B80E-E37150A896EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B31429-F8AB-45CE-B80E-E37150A896EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B31429-F8AB-45CE-B80E-E37150A896EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B31429-F8AB-45CE-B80E-E37150A896EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F0D44A5-6782-4958-9A92-13846ACF677C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F0D44A5-6782-4958-9A92-13846ACF677C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F0D44A5-6782-4958-9A92-13846ACF677C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2F0D44A5-6782-4958-9A92-13846ACF677C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F0D44A5-6782-4958-9A92-13846ACF677C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F0D44A5-6782-4958-9A92-13846ACF677C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{733A998B-2570-4088-9C2F-DA5681DA4185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{733A998B-2570-4088-9C2F-DA5681DA4185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{733A998B-2570-4088-9C2F-DA5681DA4185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{733A998B-2570-4088-9C2F-DA5681DA4185}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F92073A-8DC0-4645-89D8-2AC16DC85D01}
+	EndGlobalSection
+EndGlobal
